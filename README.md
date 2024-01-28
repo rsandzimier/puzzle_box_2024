@@ -12,7 +12,9 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
 - Don't plug the USB cable into a computer or any other devices of value. Use a USB power bank or USB power adapter.
 - Don't leave plugged in while unattended for extended periods of time.
 
-<img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/solved.jpg" width=50% height=50%/>
+<img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/solved.jpg"/>
+
+![](assets/solved.jpg)
 
 ## Hints
 <details>
