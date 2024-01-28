@@ -17,10 +17,11 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
 ## Hints
 <details>
   <summary><b>Click here for hints (SPOILERS)</b></summary>
+  
+<hr>
 
-  ---
-
-  <b>General Hint 1:</b>\
+  <b>General Hint 1:</b>
+  <br/>
   There are 3 different colors of LEDs (4 red, 1 yellow, and 4 green). LEDs of the same color are related to each other.
   
   <details>
@@ -28,7 +29,7 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
     The 3 colored groups of LEDs are completely independent from each other. Anything on the puzzle used in the solution for one color will not be used in the solution for the other colors.
   </details>
 
-  ---
+  <hr>
 
   <details>
     <summary><b>Red Puzzle Hint 1:</b></summary>
@@ -67,7 +68,7 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
     When all of the red LEDs are off, press the buttons in the following order to solve the puzzle (button 1 on the far left, button 4 on the far right): 1, 2, 3, 4, 1, 2, 3, 1, 2, 1
   </details>
 
-  ---
+  <hr>
 
   <details>
     <summary><b>Yellow Puzzle Hint 1:</b></summary>
@@ -134,7 +135,7 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
     Toggle the dip switches to the following configuration to solve the puzzle (from left to right, up is on): OFF, ON, ON, ON, OFF, OFF, ON, OFF
   </details>
 
-  ---
+  <hr>
 
   <details>
     <summary><b>Green Puzzle Hint 1:</b></summary>
@@ -184,9 +185,8 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
     <br><br/>
     <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/maze_path.jpg" width=50% height=50%>
   </details>
+<hr>
 </details>
-
----
 
 ## How It's Made
 <details>
