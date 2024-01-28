@@ -64,7 +64,7 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
     Think of it as moving the light from left to right. Once you've moved the light all the way to the right, start back over from the left.
   </details>
   <details>
-    <summary><b>Red Puzzle Hint 9:</b></summary>
+    <summary><b>Red Puzzle Solution:</b></summary>
     When all of the red LEDs are off, press the buttons in the following order to solve the puzzle (button 1 on the far left, button 4 on the far right): 1, 2, 3, 4, 1, 2, 3, 1, 2, 1
   </details>
 
@@ -131,7 +131,7 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
     The blinking pattern is SHORT, LONG, LONG, LONG, SHORT, SHORT, SHORT, LONG.
   </details>
   <details>
-    <summary><b>Yellow Puzzle Hint 16:</b></summary>
+    <summary><b>Yellow Puzzle Solution:</b></summary>
     Toggle the dip switches to the following configuration to solve the puzzle (from left to right, up is on): OFF, ON, ON, ON, OFF, OFF, ON, OFF
   </details>
 
@@ -176,12 +176,8 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
     Flip the box over. Does that open up any new path for the ball to take?
   </details>
   <details>
-    <summary><b>Green Puzzle Hint 10:</b></summary>
-    Turn on 2 LEDs, flip the box over (without passing through the reset zones), use the alternative path to move to the other side of the box, flip the box back over, and turn on the remaining 2 LEDs.
-  </details>
-  <details>
-    <summary><b>Green Puzzle Hint 11:</b></summary>
-    The paths the ball can move on are shown in the diagram below. The blue path is the 2D path the ball in confined to if the puzzle is held upright. The pink path is accessible by flipping the puzzle over and allows the ball to get to the other side without triggering the reset zones. Paths are for reference and not drawn to scale.
+    <summary><b>Green Puzzle Solution:</b></summary>
+    Turn on 2 LEDs, flip the box over (without passing through the reset zones), use the alternative path to move to the other side of the box, flip the box back over, and turn on the remaining 2 LEDs. The paths the ball can move on are shown in the diagram below. The blue path is the 2D path the ball in confined to if the puzzle is held upright. The pink path is accessible by flipping the puzzle over and allows the ball to get to the other side without triggering the reset zones. Paths are for reference and not drawn to scale (the blue path is lower down in the box and the pink path is inside the box above the blue path).
     <br><br/>
     <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/maze_path.jpg" width="50%"/>
   </details>
