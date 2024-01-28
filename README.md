@@ -192,7 +192,7 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
 <details>
   <summary><b>Click here for how it's made (SPOILERS)</b></summary>
   Work in progress
-  <br></br>
+  <br>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/100mm_board_front.jpg" width="50%"/>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/100mm_board_back.jpg" width="50%"/>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_front.jpg" width="50%"/>
