@@ -154,8 +154,9 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
   </details>
   <details>
     <summary><b>Green Puzzle Hint 5:</b></summary>
-    Moving the ball to the corners will turn on the corresponding LED. See the diagram below. But moving the ball to the reset zones will turn the LEDs off.
-    [Insert diagram]
+    Moving the ball to the corners will turn on the corresponding LED. See the green circles in the diagram below. But moving the ball to the reset zones (red X's in diagram below) will turn the LEDs off.
+    <br><br/>
+    <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/maze_points.jpg" width=50% height=50%>
   </details>
   <details>
     <summary><b>Green Puzzle Hint 6:</b></summary>
@@ -179,8 +180,9 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
   </details>
   <details>
     <summary><b>Green Puzzle Hint 11:</b></summary>
-    The paths the ball can move on are shown in the diagram below.
-    [Insert diagram]
+    The paths the ball can move on are shown in the diagram below. The blue path is the 2D path the ball in confined to if the puzzle is held upright. The pink path is accessible by flipping the puzzle over and allows the ball to get to the other side without triggering the reset zones. Paths are for reference and not drawn to scale.
+    <br><br/>
+    <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/maze_path.jpg" width=50% height=50%>
   </details>
 </details>
 
@@ -189,5 +191,24 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
 ## How It's Made
 <details>
   <summary><b>Click here for how it's made (SPOILERS)</b></summary>
-  [Insert photos]
+  Work in progress
+  <br></br>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/100mm_board_front.jpg" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/100mm_board_back.jpg" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_front.jpg" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_back.jpg" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_with_components.jpg" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_soldered.jpg" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_soldered_stacked.jpg" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_cover_cad1.png" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_cover_cad2.png" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_cover_cad1.png" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_cover_cad2.png" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_maze1.png" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_maze2.png" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_maze_cad1.png" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_maze_cad2.png" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/assembly_components.jpg" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/mazes_assembled.jpg" width=50% height=50%>
+
 </details>
