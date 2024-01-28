@@ -1,9 +1,8 @@
 # Puzzle Box 2024
 ## Instructions
-[Insert pictures of unsolved and solved puzzle]
 - Plug in Micro-USB cable to power the puzzle.
 - If there are already LEDs that are solidly lit when the puzzle is powered up, shake the puzzle and press buttons randomly until all of the LEDs are off or blinking. It is okay if 1 green LED is lit.
-- The goal of the puzzle is to have all 9 LEDs solidly lit at the same time.
+- The goal of the puzzle is to have all 9 LEDs solidly lit at the same time. See image below
 - Blinking LEDs do not count as solved. They have to be solidly lit.
 - Nothing has to be removed, disassembled, unplugged, or forced to solve the puzzle.
 - The buttons and switches on the top face of the puzzle can be pressed/toggled.
@@ -12,6 +11,8 @@
 SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist project):
 - Don't plug the USB cable into a computer or any other devices of value. Use a USB power bank or USB power adapter.
 - Don't leave plugged in while unattended for extended periods of time.
+
+<img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/solved.jpg" width=50% height=50%>
 
 ## Hints
 <details>
