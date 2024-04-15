@@ -188,21 +188,63 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
 <details>
   <summary><b>Click here for how it's made (SPOILERS)</b></summary>
   <br>
-  I designed a PCB using KiCad and had the board manufactured by JLCPCB, including the soldering of surface mount components. Photos below of top and bottom of the 100mm x 100mm PCB received from JLCPCB.
-
+  Designed a PCB using KiCad and had the board manufactured by JLCPCB, including the soldering of surface mount components. Photos below of top and bottom of the 100mm x 100mm PCB received from JLCPCB. The surface mounted components include timers, 4-bit counters, logic gates (AND, OR, NOT, NAND), and resistors.
+  <br>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/100mm_board_front.jpg" width="50%"/>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/100mm_board_back.jpg" width="50%"/>
-  
-  I designed the PCB to have 4 panels separated by V-grooves. The panels can be broken apart by hand. Each puzzle uses 2 panels, so each PCB makes 2 puzzles. Photos below of 2 panels used for 1 puzzle.
-
+  <br>
+  Designed the PCB to have 4 panels separated by V-grooves. The panels can be broken apart by hand. Each puzzle uses 2 panels, so each PCB makes 2 puzzles. Photos below of 2 panels used for 1 puzzle.
+  <br>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_front.jpg" width="50%"/>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_back.jpg" width="50%"/>
-
+  <br>
   Below are all of the through hole components used for the puzzle. 6 IR phototransistors, 6 IR LED emitters, 1 capacitor, 1 micro-USB breakout board, header pins, 8 dip switches, 4 buttons, and 9 colored LEDs.
-  
+  <br>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_with_components.jpg" width="50%"/>
+  <br>
+  Soldered the through hole components onto the boards
+  <br>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_soldered.jpg" width="50%"/>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_soldered_back.jpg" width="50%"/>
+  <br>
+  The 2 boards stack together using the headers. 
+  <br>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/boards_soldered_stacked.jpg" width="50%"/>
+  <br>
+  Below are all of the components used to assemble the puzzle. 
+  <br>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/assembly_components.jpg" width="50%"/>
+  <br>
+  The top section of the inner maze is mounted to the top PCB assembly.
+  <br>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_maze_pre-assembly.jpg" width="50%"/>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_maze_assembly.jpg" width="50%"/>
+  <br>
+  The bottom section of the inner maze is mounted to the bottom PCB assembly
+  <br>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_maze_preassembly.jpg" width="50%"/>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_maze_assembly.jpg" width="50%"/>
+  <br>
+  The ball bearing is placed inside the maze and the top and bottom halves of are attached at the headers
+  <br>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/mazes_assembled.jpg" width="50%"/>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/maze_assembly_side.jpg" width="50%"/>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/maze_assembly.jpg" width="50%"/>
+  <br>
+  The top cover is mounted to the PCB assembly using nuts captured in the inner maze parts
+  <br>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_cover_pre-assembly.jpg" width="50%"/>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_cover_assembly.jpg" width="50%"/>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_cover_assembly_front.jpg" width="50%"/>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_cover_assembly_side.jpg" width="50%"/>
+  <br>
+  The bottom cover is mounted in a similar way
+  <br>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_cover_preassembly.jpg" width="50%"/>
+  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_cover_assembly.jpg" width="50%"/>
+  <br>
+  CAD of 3D printed parts
+  <br>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_cover_cad1.png" width="50%"/>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_cover_cad2.png" width="50%"/>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_cover_cad1.png" width="50%"/>
@@ -211,20 +253,5 @@ SAFETY NOTE: The puzzle should be safe, but just in case (this is a hobbyist pro
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_maze2.png" width="50%"/>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_maze_cad1.png" width="50%"/>
   <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_maze_cad2.png" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/assembly_components.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/mazes_assembled.jpg" width="50%"/>
-
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_maze_pre-assembly.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_maze_assembly.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_cover_pre-assembly.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_cover_assembly_side.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_cover_assembly_front.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/top_cover_assembly.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/maze_assembly_side.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/maze_assembly.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_maze_preassembly.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_maze_assembly.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_cover_preassembly.jpg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/rsandzimier/puzzle_box_2024/main/assets/bottom_cover_assembly.jpg" width="50%"/>
 
 </details>
